@@ -23,12 +23,12 @@ $(document).ready(function() {
         $('.menu-btn i').toggleClass("active");
     });
 
-    var typed = new Typed(".typing1", {
-        strings: ["Android App Developer", "Flutter App Developer", "Web Developer", "Freelancer"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    });
+    // var typed = new Typed(".typing1", {
+    //     strings: ["Android App Developer", "Flutter App Developer", "Web Developer", "Freelancer"],
+    //     typeSpeed: 100,
+    //     backSpeed: 60,
+    //     loop: true
+    // });
     var typed = new Typed(".typing2", {
         strings: ["Android App Developer", "Flutter App Developer", "Web Developer", "Freelancer"],
         typeSpeed: 100,
